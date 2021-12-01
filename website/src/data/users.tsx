@@ -1527,6 +1527,15 @@ const Users: User[] = [
     tags: ['opensource', 'product', 'design'],
   },
   {
+    title: 'Yearn Finance',
+    description:
+      'Yearn Finance is a suite of products in Decentralized Finance (DeFi) that provides lending aggregation, yield generation, and insurance on the Ethereum blockchain.',
+    preview: require('./showcase/yearn.png'),
+    website: 'https://docs.yearn.finance',
+    source: 'https://github.com/yearn/yearn-devdocs',
+    tags: ['opensource', 'product', 'large', 'design', 'versioning'],
+  },
+  {
     title: 'Zowe',
     description:
       'Open source framework for leveraging data and applications in z/OS',
